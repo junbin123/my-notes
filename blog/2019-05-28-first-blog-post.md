@@ -10,3 +10,5 @@ tags: [hola, docusaurus]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+
+![未命名文件.jpg (777×777) (wujunbin.com)](https://www.image.wujunbin.com/未命名文件.jpg)
