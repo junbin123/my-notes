@@ -58,18 +58,18 @@ const config = {
     ({
       navbar: {
         title: 'Junbin Blog',
-        // logo: {
-        // alt: 'My Site Logo',
-        // src: 'img/logo.svg',
-        // },
+        logo: {
+          alt: 'Junbin Blog',
+          src: 'img/logo.png',
+        },
         items: [
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Draft',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/junbin123',
             label: 'GitHub',
